@@ -36,7 +36,7 @@
             app:layout_constraintStart_toStartOf="parent" android:layout_marginBottom="8dp"
             app:layout_constraintBottom_toTopOf="@+id/addColorBtn"/>
     <Button
-            android:text="Button"
+            android:text="Add Color"
             android:layout_width="250dp"
             android:layout_height="wrap_content"
             android:id="@+id/addColorBtn" app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
@@ -44,7 +44,7 @@
             android:layout_marginBottom="92dp" app:layout_constraintBottom_toTopOf="@+id/decideBtn"
             app:layout_constraintHorizontal_bias="0.498" style="@style/Widget.AppCompat.Button.Colored"/>
     <Button
-            android:text="Button"
+            android:text="Pick Nail Color"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:id="@+id/decideBtn" app:layout_constraintEnd_toEndOf="parent"
